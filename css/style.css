@@ -632,6 +632,21 @@ h1, h2, h3, h4, h5,
   .test {
     margin-top: 20rem;
   }
+  .test2 {
+    text-align: justify-all;
+    /*font-family: Impact, fantasy;*/
+    color: black;
+  }
+  .teleg-png {
+    height: 40px;
+    width: 41px;
+    margin-left: 10rem;
+    margin-right: 2rem;
+    /*margin-top: auto;*/
+  }
+.teleg-link {
+  margin-right: 30px;
+}
 
 /* Blocks */
 .intro-section {
@@ -648,7 +663,7 @@ h1, h2, h3, h4, h5,
     height: 100%;
     width: 100%;
     background: #ccc;
-    background-image: url("../images/body.jpg");
+    background-image: url("../images/central.jpg");
     border-bottom-right-radius: 0px;
     background-size: cover;
     background-position: center;
