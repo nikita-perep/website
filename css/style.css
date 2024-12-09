@@ -645,15 +645,10 @@ h1, h2, h3, h4, h5,
     /*justify-content: center;*/
   }
 
-.teleg-container {
-  margin-left: auto;
-  /*margin-right: 0;*/
-  /*display: flex;*/
-  /*justify-content: right; !* Центрирует по горизонтали *!*/
-  /*align-items: center; !* Центрирует по вертикали *!*/
-  /*width: 50%; !* Растягивает контейнер по ширине *!*/
-  /*height: 100vh; !* Добавим высоту для вертикального центрирования *!*/
+.social-item {
+  padding: 0 8px;
 }
+
 .teleg-link {
   margin-right: 30px;
 }
