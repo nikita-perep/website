@@ -640,12 +640,73 @@ h1, h2, h3, h4, h5,
   .teleg-png {
     height: 40px;
     width: 41px;
-    margin-left: 10rem;
-    margin-right: 2rem;
-    /*margin-top: auto;*/
+    /*transform: translateX(90px)*/
+    /*display: flex;*/
+    /*justify-content: center;*/
   }
+
+.teleg-container {
+  margin-left: auto;
+  /*margin-right: 0;*/
+  /*display: flex;*/
+  /*justify-content: right; !* Центрирует по горизонтали *!*/
+  /*align-items: center; !* Центрирует по вертикали *!*/
+  /*width: 50%; !* Растягивает контейнер по ширине *!*/
+  /*height: 100vh; !* Добавим высоту для вертикального центрирования *!*/
+}
 .teleg-link {
   margin-right: 30px;
+}
+
+.avito-png {
+  height: 40px;
+  width: 41px;
+  /*transform: translateX(100px)*/
+  /*margin-left: 10rem;*/
+  /*margin-right: 2rem;*/
+  /*margin-top: auto;*/
+}
+
+.teleg-footer {
+  height: 40px;
+  width: 41px;
+  /*transform: translateX(90px)*/
+  /*margin-top: auto;*/
+}
+
+.avito-footer {
+  height: 40px;
+  width: 41px;
+  /*transform: translateX(100px)*/
+  /*margin-left: 10rem;*/
+  /*margin-right: 2rem;*/
+  /*margin-top: auto;*/
+}
+
+.review-btn {
+  font-size: 14px;
+  line-height: 1.22;
+  min-width: 160px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  padding: 10px 18px;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 0;
+  box-shadow: none;
+  white-space: normal;
+  color: #ffffff;
+  border-color: #c91217;
+  background-color: #c91217;
+  transition: box-shadow 0.4s, background-color 0.4s, transform 0.2s;
+}
+
+.review-btn:hover {
+  color: #fff;
+  background-color: #7e1e18;
 }
 
 /* Blocks */
