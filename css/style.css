@@ -629,20 +629,16 @@ h1, h2, h3, h4, h5,
     padding-top: 10px !important;
     padding-bottom: 10px !important; }
 
-  .test {
+  .home-content {
     margin-top: 20rem;
   }
-  .test2 {
+  .text-content {
     text-align: justify-all;
-    /*font-family: Impact, fantasy;*/
     color: black;
   }
   .teleg-png {
     height: 40px;
     width: 41px;
-    /*transform: translateX(90px)*/
-    /*display: flex;*/
-    /*justify-content: center;*/
   }
 
 .social-item {
@@ -656,26 +652,16 @@ h1, h2, h3, h4, h5,
 .avito-png {
   height: 40px;
   width: 41px;
-  /*transform: translateX(100px)*/
-  /*margin-left: 10rem;*/
-  /*margin-right: 2rem;*/
-  /*margin-top: auto;*/
 }
 
 .teleg-footer {
   height: 40px;
   width: 41px;
-  /*transform: translateX(90px)*/
-  /*margin-top: auto;*/
 }
 
 .avito-footer {
   height: 40px;
   width: 41px;
-  /*transform: translateX(100px)*/
-  /*margin-left: 10rem;*/
-  /*margin-right: 2rem;*/
-  /*margin-top: auto;*/
 }
 
 .review-btn {
